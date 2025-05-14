@@ -1,3 +1,2 @@
 Las pilas (también llamadas "stacks") son estructuras de datos fundamentales que se usan para almacenar y ordenar elementos. Siguen el principio de LIFO (Last in, First out), es decir, que
-el último elemento agregado, será el primero en ser eliminado. En particular PHP usa una pila internamente para manejar "call stack", que se encarga de rastrear las funciones que se están 
-ejecutando, sus funciones, y el orden de retorno.    
+el último elemento agregado, será el primero en ser eliminado. Son comparables a una serie de platos apilados; solo puedes agregar o quitar un plato desde la parte superior donde está el último plato que se puso. En particular PHP usa una pila internamente para manejar "call stack", que se encarga de rastrear las funciones que se están ejecutando, sus funciones, y el orden de retorno. 
