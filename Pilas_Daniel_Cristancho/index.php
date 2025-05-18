@@ -14,9 +14,8 @@ array_push ($pila,"alexa");
 array_push ($pila,"aspiradora");
 
 
-    $instrumentos = array_pop ($pila);
+    $electrodomésticos = array_pop ($pila);
 
-    echo "el ultimo elemento ingresado a la pila es:".$electrodomésticos; 
+    echo "el ultimo elemento ingresado a la pila es: ".$electrodomésticos; 
 
 ?>
-
